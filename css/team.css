@@ -1,0 +1,16 @@
+#team {
+  background-color: #f4f4fd;
+}
+
+#team ul li {
+  background-color: #ffffff;
+}
+
+#team h1,
+h3 {
+  text-align: center;
+}
+
+#team p {
+  text-align: center;
+}
