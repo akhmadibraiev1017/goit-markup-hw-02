@@ -1,16 +1,29 @@
-#team {
+.team {
   background-color: #f4f4fd;
 }
 
-#team ul li {
+.team ul li {
   background-color: #ffffff;
 }
 
-#team h1,
-h3 {
+.team-name,
+.team-text,
+.team-title {
   text-align: center;
 }
 
-#team p {
-  text-align: center;
+.team-name {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.team-text {
+  color: #434455;
+  line-height: 1.5;
+}
+
+.team-title {
+  font-size: 36px;
+  font-weight: 700;
 }

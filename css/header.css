@@ -3,7 +3,8 @@
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.5;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -18,7 +19,13 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
+}
+
+.teleport:hover,
+.teleport:focus {
+  color: #404bbf;
 }
 
 .address {
@@ -27,6 +34,12 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  letter-spacing: 0.02em;
   text-decoration: none;
   font-style: normal;
+}
+
+.address:hover,
+.address:focus {
+  color: #404bbf;
 }

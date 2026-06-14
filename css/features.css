@@ -1,9 +1,10 @@
-#features h3 {
-  color: #434455;
+.features-title {
+  color: #2e2f42;
   text-align: left;
 }
 
-#features p {
-  color: #8e8f99;
+.features-text {
+  color: #434455;
   text-align: left;
+  line-height: 1.5;
 }
