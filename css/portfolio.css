@@ -3,6 +3,8 @@
   font-size: 36px;
   font-weight: 700;
   text-align: center;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-name {
@@ -10,10 +12,13 @@
   text-align: left;
   font-size: 20px;
   font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 
 .portfolio-text {
   color: #434455;
   text-align: left;
   line-height: 1.5;
+  letter-spacing: 0.02em;
 }
