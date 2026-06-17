@@ -5,6 +5,8 @@
   text-align: center;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  margin-top: 0px;
+  margin-bottom: 72px;
 }
 
 .portfolio-name {
@@ -21,4 +23,15 @@
   text-align: left;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+
+.portfolio li {
+  width: 360px;
+}
+
+.portfolio ul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }

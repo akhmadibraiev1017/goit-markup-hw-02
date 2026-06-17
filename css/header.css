@@ -43,3 +43,19 @@
 .address:focus {
   color: #404bbf;
 }
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav ul {
+  display: flex;
+  gap: 40px;
+}
+
+address ul {
+  display: flex;
+  gap: 40px;
+}
